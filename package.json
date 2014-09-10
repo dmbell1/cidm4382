@@ -1,0 +1,11 @@
+{
+    "author": "Dustin Bell",
+    "name": "censorIt",
+    "version": "0.1.1",
+    "description": "Censors words in text",
+    "main": "censortext",
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
